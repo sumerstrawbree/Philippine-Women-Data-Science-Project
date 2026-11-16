@@ -2,7 +2,7 @@
 
 **The Philippines** is a country in Southeast Asia, consisting of 7,641 islands with Manila as its capital, and has 94.8% national electricity access.
 
-However,** high electricity costs** make it hard for Filipino households, spending 15.7% of their income on electricity. For women, these costs can result in** more physical labor** around the house.
+However, **high electricity costs** make it hard for Filipino households, spending 15.7% of their income on electricity. For women, these costs can result in**more physical labor** around the house.
 
 Although female labor force participation increased from 50% in 2013 to 52.3% in 2023, marriage and caring for young children make employment more difficult.
 
