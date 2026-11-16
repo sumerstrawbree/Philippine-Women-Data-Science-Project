@@ -10,7 +10,7 @@ Although female labor force participation increased from 50% in 2013 to 52.3% in
 
 I created a **scatterplot** using data to represent the **% of Women Living in a Household with Electricity** (Philippines).
 
-**My research question: ** How does access to electricity affect women's economic opportunities and labor force participation in the Philippines?
+**My research question:** How does access to electricity affect women's economic opportunities and labor force participation in the Philippines?
 
 # My Project Includes:
 - Setting
